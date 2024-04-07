@@ -3,9 +3,10 @@
 ## Project setup
 ```
 npm install
+npm i moment
 ```
 
-### Compiles and hot-reloads for development
+### To run code
 ```
 npm run serve
 ```
